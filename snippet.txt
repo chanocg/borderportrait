@@ -1,0 +1,1 @@
+<model-viewer src="border.gltf" ar ar-modes="webxr scene-viewer quick-look" interaction-prompt="none" disable-tap camera-controls poster="poster.webp" shadow-intensity="0" shadow-softness="0" exposure="1.03" min-camera-orbit="-11deg 81deg auto" max-camera-orbit="10deg 91deg auto" camera-target="0m 0.75m 0m"> </model-viewer>
